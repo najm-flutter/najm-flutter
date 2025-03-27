@@ -6,7 +6,7 @@ I am a passionate and committed Flutter developer, driven by the pursuit of crea
 - **Design Patterns**: MVC, clean architecture
 - **State Management**: GetX, Provider, bloc
 - **APIs**: RESTful APIs
-- **Databases**: Firebase, MySQL, PHP
+- **Databases**: Firebase, MySQL, SQLite
 - **Version Control**: Git, GitHub
 - **And More...**
 
